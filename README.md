@@ -12,7 +12,7 @@
 -  My Website: [iwanna.id](https://iwanna.id/)
 
 
-## Languages and Tools
+## Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
