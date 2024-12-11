@@ -1,4 +1,4 @@
-<h1 align="center">I'm iwanna | software engineer</h1>
+<h1 align="center">i'm iwanna | software engineer</h1>
 <h3 align="center">
     Passionate about clean code, scalable systems, and open-source projects. <br> Explore my repositories for tools and projects.
 </h3>
@@ -6,7 +6,7 @@
 
 ## About Me
 
-•  Building a Team with [**Devta**](https://github.com/devtasrc)  •  Writing Articles on [Medium](https://jeriatno.medium.com)  •  Turning UI Ideas on [Threads](https://www.threads.net/@jeriatno)  •  My Website on [iwanna.id](https://iwanna.id/)
+•  Building a team with [**devta**](https://github.com/devtasrc)  •  Writing articles on [medium](https://jeriatno.medium.com)  •  Turning UI ideas on [threads](https://www.threads.net/@jeriatno)  •  My website on [iwanna.id](https://iwanna.id/)
 
 
 ## Tech Stack
