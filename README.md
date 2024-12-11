@@ -42,6 +42,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%2300B0D7.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-%23000000.svg?style=for-the-badge&logo=coolify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-%230089DA.svg?style=for-the-badge&logo=letsencrypt&logoColor=white)
