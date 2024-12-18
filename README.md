@@ -46,6 +46,8 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-%230089DA.svg?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-%23E8A317.svg?style=plastic&logo=pwa&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%230257F1.svg?style=plastic&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
