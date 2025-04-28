@@ -1,4 +1,4 @@
-<h1 align="center">i'm i-wan-na | software engineer</h1>
+<h1 align="center">i'm i-wa-na | software engineer</h1>
 <h3 align="center">
     Passionate about clean code, scalable systems, and open-source projects. <br> Explore my repositories for tools and projects.
 </h3>
@@ -14,6 +14,8 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Lumen](https://img.shields.io/badge/Lumen-%23FF5D00.svg?style=for-the-badge&logo=lumen&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-%23F6F8FB.svg?style=for-the-badge&logo=filament&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-%23F05F40.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-%23CAA3CC.svg?style=for-the-badge&logo=gin&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
