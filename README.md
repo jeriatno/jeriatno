@@ -1,4 +1,4 @@
-<h1 align="center">i'm i-wa-na | software engineer</h1>
+<h1 align="center">im i-wa-na | software engineer</h1>
 <h3 align="center">
     Passionate about clean code, scalable systems, and open-source projects. <br> Explore my repositories for tools and projects.
 </h3>
@@ -26,6 +26,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
