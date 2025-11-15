@@ -1,4 +1,4 @@
-<h1 align="center">im jeri | software engineer</h1>
+<h1 align="center">i'm jeri | software engineer</h1>
 <h3 align="center">
     Passionate about clean code, scalable systems, and open-source projects. <br> Explore my repositories for tools and projects.
 </h3>
