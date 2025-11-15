@@ -6,7 +6,7 @@
 
 ## About Me
 
-•  Building a team with [**devta.id**](https://devta.id)  •  Writing articles on [medium](https://jeriatno.medium.com)  •  Turning UI ideas on [threads](https://www.threads.net/@jeriatno)  •  My website on [iwanna.id](https://jeriatno.id/)
+•  Building a team with [**devta.id**](https://devta.id)  •  Writing articles on [medium](https://jeriatno.medium.com)  •  Turning UI ideas on [threads](https://www.threads.net/@jeriatno)  •  My website on [jeriatno.id](https://jeriatno.id/)
 
 
 ## Tech Stack
