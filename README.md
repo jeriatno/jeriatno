@@ -1,4 +1,4 @@
-<h1 align="center">im i-wa-na | software engineer</h1>
+<h1 align="center">im jeri | software engineer</h1>
 <h3 align="center">
     Passionate about clean code, scalable systems, and open-source projects. <br> Explore my repositories for tools and projects.
 </h3>
@@ -6,7 +6,7 @@
 
 ## About Me
 
-•  Building a team with [**devta.id**](https://devta.id)  •  Writing articles on [medium](https://jeriatno.medium.com)  •  Turning UI ideas on [threads](https://www.threads.net/@jeriatno)  •  My website on [iwanna.id](https://iwanna.id/)
+•  Building a team with [**devta.id**](https://devta.id)  •  Writing articles on [medium](https://jeriatno.medium.com)  •  Turning UI ideas on [threads](https://www.threads.net/@jeriatno)  •  My website on [iwanna.id](https://jeriatno.id/)
 
 
 ## Tech Stack
